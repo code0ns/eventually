@@ -1,2 +1,2 @@
-# Eventually
+# eventually
 event managament platform 
